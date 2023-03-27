@@ -5,7 +5,19 @@
 **Education website where developers who want to learn CosmWasm, the contract language of Cosmos Chain, can easily and enjoyably learn.**
 
 ## 💻 Tech Stack
-- Core : ReactJS, JavaScript
-- State Management : RecoilJS
-- Styling : Tailwind CSS, Shuffle
-- Package Manager : NPM
+### ⭐️ Core
+- React.js
+- JavaScript
+
+### 📚 State Management
+- Recoil
+
+### 🚀 Data Fetching
+- X
+
+### 🎨 Styling
+- Tailwind CSS
+- Shuffle
+
+### 📦 Package Manager
+- NPM
