@@ -29,7 +29,7 @@ TBU
 
 **Frontend :** JavaScript, React, Recoil
 
-**Backend :** TypeScript, Express
+**Backend :** TypeScript, Node.js, Express
 
 <br />
 
