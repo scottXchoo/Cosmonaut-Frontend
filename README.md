@@ -21,7 +21,7 @@ Cosmos 블록체인 전용 컨트랙트 언어인 CosmWasm의 이론을 학습�
 <br />
 
 ## 📊 아키텍처
-![architecture](https://github.com/scottXchoo/Supernova-Frontend/assets/107841492/f9fb50f2-93f7-4b59-a2f9-45aebefa7bdc)
+TBU
 
 <br />
 
